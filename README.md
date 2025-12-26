@@ -40,8 +40,8 @@ user@manthan:~$ cat about_me.txt
 🏗️ Featured Engineering
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Multi-Threaded Chat System** | A low-level, terminal-based communication protocol. Handles concurrent client connections via raw sockets and threading. Optimized for low latency. | C++, Threads, Sockets |
-| **Logistics TMS** | Enterprise-grade Transportation Management System. Manages complex supply chain logistics, fleet tracking, and route optimization data. | Python, Django, SQL |
+| **Multi-Threaded Chat System** | A low-level, terminal-based communication protocol. Handles concurrent client connections via raw sockets and threading. Optimized for low latency. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Sockets](https://img.shields.io/badge/Sockets-000000?style=for-the-badge&logo=socket.io&logoColor=white) |
+| **Logistics TMS** | Enterprise-grade Transportation Management System. Manages complex supply chain logistics, fleet tracking, and route optimization data. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 <br />
 ⚡ The Hardware Lab
