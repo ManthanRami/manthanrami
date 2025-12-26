@@ -5,7 +5,7 @@
   ### Full-Stack Developer | Scalable Architecture | Open Source
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35eb5c&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Turnium;Building+Scalable+Systems;Tweaking+Homelab+%26+Servers;Obsessed+with+C%2B%2B+%26+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35eb5c&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Turnium;Building+Scalable+Systems;Tweaking+Homelab+%26+Servers;Open+Source+Enthusiast%2B%2B+%26" alt="Typing SVG" />
   </a>
 
 </div>
