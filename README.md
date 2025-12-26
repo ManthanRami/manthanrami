@@ -52,7 +52,7 @@ Beyond software, I manage physical infrastructure.
 | :--- | :--- | :--- |
 | **Compute** | High-availability Homelab servers | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **IoT** | Prototyping & Automation | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) |
-| **Tools** | Streaming & Recording | ![OBS](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white) |
+| **Tools** | Package Building & Distribution | ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white) |
 
 <br />
 🎧 Vibe Check & Connect
