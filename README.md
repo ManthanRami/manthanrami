@@ -38,10 +38,27 @@ user@manthan:~$ cat about_me.txt
 
 <br />
 🏗️ Featured Engineering
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Multi-Threaded Chat System** | A low-level, terminal-based communication protocol. Handles concurrent client connections via raw sockets and threading. Optimized for low latency. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Sockets](https://img.shields.io/badge/Sockets-000000?style=for-the-badge&logo=socket.io&logoColor=white) |
-| **Logistics TMS** | Enterprise-grade Transportation Management System. Manages complex supply chain logistics, fleet tracking, and route optimization data. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📡 Multi-Threaded Chat System</h3>
+      <p align="center">A low-level, terminal-based communication protocol. Handles concurrent client connections via raw sockets and threading. Optimized for low latency.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sockets-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚛 Logistics TMS</h3>
+      <p align="center">Enterprise-grade Transportation Management System. Manages complex supply chain logistics, fleet tracking, and route optimization data.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 ⚡ The Hardware Lab
