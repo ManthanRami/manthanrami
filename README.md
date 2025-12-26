@@ -56,7 +56,7 @@ Beyond software, I manage physical infrastructure.
 <br />
 🎧 Vibe Check & Connect
 
-<div align="center"> <a href="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/spotify"> <img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3DYOUR_SPOTIFY_USER_ID%26cover_image%3Dtrue%26theme%3Dnovatorem%26bar_color%3D53b14f%26bar_color_cover%3Dfalse" alt="Spotify" width="400" /> </a>
+<div align="center"> <a href="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/spotify"> <img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%afr5wqz079g1k8hvj8xj9t4hc%26cover_image%3Dtrue%26theme%3Dnovatorem%26bar_color%3D53b14f%26bar_color_cover%3Dfalse" alt="Spotify" width="400" /> </a>
 
 <br /><br />
 
